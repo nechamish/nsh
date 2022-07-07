@@ -1,0 +1,15 @@
+body {
+    background-size: 100px;
+    background-color: cyan;
+  }
+  
+  
+  input{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 15px;
+      color: palevioletred;
+  }
+  h1{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: palevioletred;
+  }

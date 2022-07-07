@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+    integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <!-- <link href="User.css" rel="stylesheet"> -->
+    <!-- <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="script19.js"></script> -->
+    <link href="User.css" rel="stylesheet" />
+    <script src="User.js"></script>
+    <title>User</title>
+</head>
+<body onload="Data()">
+    <h1>User</h1>
+<!-- <button onclick="">ttttt</button> -->
+    <!-- <a href="#" id="clickme">Get JSON Data</a> -->
+    <form id="form">
+        <div id="user1"></div>
+
+        <div  class="form-group col-md-6">   
+        <label for="inputCity">Enter your name</label>
+        <input type="text" class="form-control" id="name">
+        </div>
+
+        <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your last name</label>
+            <input type="text" class="form-control" id="lastname">
+         </div>
+        
+        <!-- <label for="inputCity">Enter your city</label>
+        <select id="city" class="form-select" aria-label="Default select example">
+            <option >אלעד</option>
+            <option >בני ברק</option>
+            <option >פתח תיקוה</option>
+            <option>ירושלים</option>
+         </select> -->
+
+        <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your Adress</label>
+            <input type="text" class="form-control" id="Adress">
+        </div>
+
+        <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your phone</label>
+            <input type="tel" class="form-control" id="phone">
+         </div>
+
+         <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your email</label>
+            <input type="text" class="form-control" id="email1">
+         </div>
+
+         <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your height</label>
+            <input type="number" class="form-control" id="height">
+         </div>
+
+         <div  class="form-group col-md-6">   
+            <label for="inputCity">Enter your weight </label>
+            <input type="number" class="form-control" id="weight" >
+         </div>
+            <div class="form-group col-md-6">
+                <button onclick="Bmi()"for="inputCity">To Calculate Bmi</button>
+                <input  class="form-control" id="cal">
+            </div>
+         <div id="io"></div>
+         <!-- <h2>Meeting</h2>
+         <div >
+       
+          <textarea name="" id="met1" cols="30" rows="10"></textarea>
+
+         </div> -->
+
+        <!-- <pre><button onclick="Save(document.getElementById('name').value, document.getElementById('city').value, document.getElementById('Adress').value, document.getElementById('phone').value, document.getElementById('email').value, document.getElementById('height').value, document.getElementById('weight').value);return false">save</button></pre> -->
+        <div class="form-group col-md-6">
+            <button onclick="openUrl()" for="inputCity">Show me my diary</button>
+            <!-- <input class="form-control" id="id"> -->
+        </div>
+    </form>
+</body>
+</html>

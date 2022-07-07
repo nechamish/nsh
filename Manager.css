@@ -1,0 +1,23 @@
+body {
+  background-size: 100px;
+  background-color: cyan;
+}
+
+h1 {
+  text-align: center;
+  color: palevioletred;
+}
+.filter {
+  margin-left: 900px;
+  color: palevioletred;
+  border: 1px;
+}
+.input {
+  margin-left: 900px;
+}
+.show {
+  margin-left: 700px;
+}
+#text {
+  margin-left: 700px;
+}

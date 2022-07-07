@@ -1,0 +1,620 @@
+{
+    "Manager": {
+      "id": 212,
+      "first-name": "moshe",
+      "last-name": "moshayov",
+      "email": "manager@gmail.com",
+      "password": "123"
+    },
+    "users": [
+      {
+        "id": "123456789",
+        "firstName": "Manager",
+        "lastName": "Levi",
+        "address": {
+          "city": "jerusalem",
+          "street": "arimon",
+          "number": 5
+        },
+        "phone": "0521369874",
+        "email": "manager@gmail.com",
+        "hight": 1.7,
+        "weight": {
+          "startWeight": 90,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 60
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 61.8
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 60.9
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "2022-06-09",
+            "Breakfast": [
+              "banana",
+              "milk",
+              "apple",
+              "brenflex",
+              "sugar"
+            ],
+            "Lanch": [
+              "banana",
+              "milk",
+              "apple",
+              "brenflex",
+              "sugar"
+            ],
+            "Dinner": [
+              "banana",
+              "milk",
+              "apple",
+              "brenflex",
+              "sugar"
+            ]
+          },
+          {
+            "date": "2022-06-08",
+            "Breakfast": [
+              "milk",
+              "egg",
+              "tomato",
+              "cucumber",
+              "lemon"
+            ],
+            "Lanch": [
+              "meat",
+              "rice",
+              "salad",
+              "potato",
+              "shlagon"
+            ],
+            "Dinner": [
+              "pizaa",
+              "pasta",
+              "salad",
+              "potato",
+              "pukacha"
+            ]
+          },
+          {
+            "date": "2022-06-09",
+            "Breakfast": [
+              "chesse",
+              "yellow cheese",
+              "napolyon cheese",
+              "maskrofona chesse",
+              "bread"
+            ],
+            "Lanch": [
+              "fish",
+              "chips",
+              "chili",
+              "ketshop",
+              "rice"
+            ],
+            "Dinner": [
+              "egg",
+              "salad",
+              "cheese",
+              "lamp",
+              "yellow chesse"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "212563696",
+        "firstName": "Shoshi",
+        "lastName": "Zada",
+        "address": {
+          "city": "Elad",
+          "street": "Nisim Gaon",
+          "number": "4"
+        },
+        "phone": "0556737338",
+        "email": "s0556737338@gmail.com",
+        "hight": 1.64,
+        "weight": {
+          "startWeight": 45,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 45
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 45.7
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 46
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          },
+          {
+            "date": "2022-07-05",
+            "Breakfast": [
+              "yellowchesse",
+              "bread",
+              "salad",
+              "cheese",
+              "onion"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "cucumber",
+              "tomato",
+              "onion"
+            ],
+            "Dinner": [
+              "pizaa",
+              "salad",
+              "shum",
+              "shoko",
+              "vanila"
+            ]
+          },
+          {
+            "date": "",
+            "Breakfast": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          },
+          {
+            "date": "",
+            "Breakfast": [
+              "milk",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          },
+          {
+            "date": "",
+            "Breakfast": [
+              "milkshik",
+              "egg",
+              "banana",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          },
+          {
+            "date": "2022-07-01",
+            "Breakfast": [
+              "Milk",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          },
+          {
+            "date": "",
+            "Breakfast": [
+              "milk",
+              "choclate",
+              "bread",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          },
+          {
+            "date": "2022-07-08",
+            "Breakfast": [
+              "milk",
+              "choclate",
+              "bread",
+              "enter food",
+              "enter food"
+            ],
+            "Lanch": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ],
+            "Dinner": [
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food",
+              "enter food"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "987654321",
+        "firstName": "Rachel",
+        "lastName": "Keler",
+        "address": {
+          "city": "jerusalem",
+          "street": "arimon",
+          "number": 5
+        },
+        "phone": "0558963214",
+        "email": "rk@gmail.com",
+        "hight": 1.75,
+        "weight": {
+          "startWeight": 80,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 60
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 61.8
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 60.9
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "587412369",
+        "firstName": "Shira",
+        "lastName": "Avitan",
+        "address": {
+          "city": "jerusalem",
+          "street": "arimon",
+          "number": "5"
+        },
+        "phone": "0536985214",
+        "email": "sa@gmail.com",
+        "hight": 1.64,
+        "weight": {
+          "startWeight": 80,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 60
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 61.8
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 60.9
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "212563696",
+        "firstName": "Ester",
+        "lastName": "Fabian",
+        "address": {
+          "city": "Elad",
+          "street": "Bali Htosafot",
+          "number": "30"
+        },
+        "phone": "0556772906",
+        "email": "E0556772906@gmail.com",
+        "hight": 1.74,
+        "weight": {
+          "startWeight": 55,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 55
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 55.6
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 56
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "212563696",
+        "firstName": "Nechami",
+        "lastName": "Shakeka",
+        "address": {
+          "city": "Elad",
+          "street": "Choni Hamagel",
+          "number": "42"
+        },
+        "phone": "0548597720",
+        "email": "nechami77@gmail.com",
+        "hight": 1.74,
+        "weight": {
+          "startWeight": 46,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 46.5
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 46.6
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 47
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2157846454",
+        "firstName": "Shifi",
+        "lastName": "Waingerten",
+        "address": {
+          "city": "Elad",
+          "street": "Choni Hamagel",
+          "number": "30"
+        },
+        "phone": "0583253795",
+        "email": "shifi@gmail.com",
+        "hight": 1.68,
+        "weight": {
+          "startWeight": 60,
+          "meeting": [
+            {
+              "date": "12/03/2022",
+              "weight": 60.5
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 60.6
+            },
+            {
+              "date": "12/03/2022",
+              "weight": 61
+            }
+          ]
+        },
+        "dairies": [
+          {
+            "date": "12/03/2022",
+            "Breakfast": [
+              "banana",
+              "choclate",
+              "cheese",
+              "yellowcheese",
+              "cucumber"
+            ],
+            "Lanch": [
+              "chicken",
+              "rice",
+              "tomato",
+              "cucumber",
+              "onion"
+            ],
+            "Dinner": [
+              "shoko",
+              "choclate",
+              "egg",
+              "chesse",
+              "cucumber"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
